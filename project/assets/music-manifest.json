@@ -1,0 +1,29 @@
+{
+  "origin": "Original procedural music and original Korean lyrics created for PLEOKE. No external samples.",
+  "generator": "generate_music.py",
+  "sampleRate": 24000,
+  "channels": 1,
+  "tracks": [
+    {
+      "id": "campfire",
+      "bpm": 96,
+      "beats": 96,
+      "durationSeconds": 60.0,
+      "sha256": "86f8248f8de460dd99d07777bff48fd5f1fb44de830f9ce0247db17d0a54c4a3"
+    },
+    {
+      "id": "starlight",
+      "bpm": 90,
+      "beats": 96,
+      "durationSeconds": 64.0,
+      "sha256": "5951327a56484db40a34a617578c1992c45b9a7b6ca378536dc9f3d489d63c7c"
+    },
+    {
+      "id": "weekend",
+      "bpm": 120,
+      "beats": 96,
+      "durationSeconds": 48.0,
+      "sha256": "400ee50388e0e4b4ed9b516351366d8846c0ba7db86a2e5d77295b744a88fb0c"
+    }
+  ]
+}
